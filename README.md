@@ -1,3 +1,9 @@
+<!-- app-release:start -->
+[**Descargar APK v8**](https://github.com/ricardoyf/TankArtillery/releases/download/v8/TankArtillery-v8.apk) · [SHA-256](https://github.com/ricardoyf/TankArtillery/releases/download/v8/TankArtillery-v8.apk.sha256)
+
+`354ebca8bbbd9d7fbb6b1b9a5fd608e841a52e6a7fd2128169a1a146b0d50075`
+<!-- app-release:end -->
+
 # Tank Artillery
 
 Juego nativo Android en **Kotlin + Jetpack Compose** tipo Artillery/Tanks.
@@ -18,9 +24,7 @@ Juego nativo Android en **Kotlin + Jetpack Compose** tipo Artillery/Tanks.
 
 ## Abrir en Android Studio
 
-Abre esta carpeta directamente:
-
-`/home/n95/gDrive/TANK`
+Clona el repositorio y abre su carpeta raíz en Android Studio.
 
 ## Compilar
 
@@ -43,6 +47,4 @@ Abre esta carpeta directamente:
 
 ## Nota
 
-El proyecto usa el SDK local configurado en `local.properties`:
-
-`/home/n95/Android/Sdk`
+Configura tu ruta local del SDK en `local.properties`; este archivo no se versiona.
