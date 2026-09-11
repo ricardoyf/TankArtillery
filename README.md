@@ -1,5 +1,5 @@
 <!-- app-release:start -->
-[**Descargar APK v8**](https://github.com/ricardoyf/TankArtillery/releases/download/v8/TankArtillery-v8.apk) · [SHA-256](https://github.com/ricardoyf/TankArtillery/releases/download/v8/TankArtillery-v8.apk.sha256)
+[**Descargar APK v8**](https://github.com/ricardoyf/TankArtillery/raw/refs/tags/v8/release-artifacts/v8/TankArtillery-v8.apk) · [SHA-256](https://github.com/ricardoyf/TankArtillery/raw/refs/tags/v8/release-artifacts/v8/TankArtillery-v8.apk.sha256)
 
 `354ebca8bbbd9d7fbb6b1b9a5fd608e841a52e6a7fd2128169a1a146b0d50075`
 <!-- app-release:end -->
